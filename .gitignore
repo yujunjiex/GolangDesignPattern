@@ -1,0 +1,9 @@
+*.vcs.xml
+*.log
+*.log.*
+*.lock
+*.pyc
+.idea
+.DS_Store
+__pycache__
+go.sum
